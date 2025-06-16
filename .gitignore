@@ -1,0 +1,4 @@
+GANs/data
+GANs/generated_images
+*.h5
+*.pkl
