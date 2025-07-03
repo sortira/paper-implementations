@@ -1,4 +1,5 @@
 GANs/data
 GANs/generated_images
+AlexNET/data
 *.h5
 *.pkl
